@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+for_commit_from_Colab.ipynb
 
 # IPython
 profile_default/
